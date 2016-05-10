@@ -4,4 +4,12 @@
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
     <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="button_shared_preferences">SharedPreferences</string>
+    <string name="edit_username">Enter a username</string>
+    <string name="PREF_USER_INFO_KEY">cn.hophin.shfy.developerstraining.pref_user_info_key</string>
+    <string name="PREF_USER_INFO_USERNAME">username</string>
+    <string name="PREF_USER_INFO_USERNAME_DEFAULT_VALUE">admin</string>
+    <string name="title_activity_shared_preferences">SharedPreferencesActivity</string>
+    <string name="button_add_one_message">AddOneNewMessage</string>
+    <string name="button_clear_all_messages">ClearAll</string>
 </resources>

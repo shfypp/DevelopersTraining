@@ -1,0 +1,8 @@
+1.  Get a Handle to a SharedPreferences
+    getSharedPreferences()
+        — Use this if you need multiple shared preference files identified by name,
+        which you specify with the first parameter. You can call this from any Context in your app.
+    getPreferences()
+        — Use this from an Activity if you need to use only one shared preference file for the activity.
+        Because this retrieves a default shared preference file that belongs to the activity,
+        you don't need to supply a name.

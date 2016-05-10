@@ -27,6 +27,15 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="cn.hophin.shfy.developerstraining.MainActivity" />
         </activity>
+        <activity
+            android:name=".SharedPreferencesActivity"
+            android:label="@string/title_activity_shared_preferences"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="cn.hophin.shfy.developerstraining.MainActivity" />
+        </activity>
     </application>
 
 </manifest>
